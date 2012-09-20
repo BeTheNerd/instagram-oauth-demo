@@ -1,0 +1,8 @@
+<resources>
+
+	<string name="app_name">Instagram OAuth</string>
+	<string name="menu_delete">Delete Access Token</string>
+	<string name="title_activity_main">Instagram OAuth Demo</string>
+	<string name="redirect_url">oauth://instagram</string>
+
+</resources>
